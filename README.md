@@ -2,7 +2,9 @@
 Completed the course "The Complete 2021 Flutter Development Bootcamp with Dart" by Dr. Angela Yu (Officially created in collaboration with the Google Flutter team.) Here the projects which I developed throughout the course. The Projects varies in their complexity level from low to high. This course is available in udemy. 
 #Course_Description
 This course includes 29 hours lecture videos along practice sessions which covers the complete basics of flutter and dart. 
+
 Concepts learned:
+
 Fundamental Flutter concepts e.g. Stateful vs. Stateless Widgets, Widget tree, state management, animations, themes and much more.
 
 Fundamental Dart concepts e.g. lists, maps, enums, loops, futures, streams, mixins, classes, and much more.
